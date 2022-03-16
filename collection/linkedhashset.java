@@ -16,15 +16,15 @@ public class linkedhashset {
         System.out.println(cobalinkedhashset);
 
         cobalinkedhashset.remove("33");
-        System.out.println("Isi dari setelah remove 33 dari cobahashset :");
+        System.out.println("Isi dari setelah remove 33 dari cobalinkedhashset :");
         System.out.println(cobalinkedhashset);
 
         cobalinkedhashset.add("11");
-        System.out.println("Isi dari setelah meng-add 11 dari cobahashset :");
+        System.out.println("Isi dari setelah meng-add 11 dari cobalinkedhashset :");
         System.out.println(cobalinkedhashset);
 
         cobalinkedhashset.add("66");
-        System.out.println("Isi dari setelah meng-add 66 dari cobahashset :");
+        System.out.println("Isi dari setelah meng-add 66 dari cobalinkedhashset :");
         System.out.println(cobalinkedhashset);
     }
 }
