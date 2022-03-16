@@ -16,15 +16,15 @@ public class treeset {
         System.out.println(cobatreeset);
 
         cobatreeset.remove("33");
-        System.out.println("Isi dari cobatreese setelah remove 33 dari cobahashset :");
+        System.out.println("Isi dari cobatreese setelah remove 33 dari cobatreeset :");
         System.out.println(cobatreeset);
 
         cobatreeset.add("11");
-        System.out.println("Isi dari cobatreese setelah meng-add 11 dari cobahashset :");
+        System.out.println("Isi dari cobatreese setelah meng-add 11 dari cobatreeset :");
         System.out.println(cobatreeset);
 
         cobatreeset.add("66");
-        System.out.println("Isi dari cobatreese setelah meng-add 66 dari cobahashset :");
+        System.out.println("Isi dari cobatreese setelah meng-add 66 dari cobatreeset :");
         System.out.println(cobatreeset);
     }
 }
