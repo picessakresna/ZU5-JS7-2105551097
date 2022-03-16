@@ -21,7 +21,7 @@ public class linkedhashmap {
         cobalinkedhashmap.remove("22");
         System.out.println(cobalinkedhashmap);
 
-        System.out.println("Isi dari cobahashmap map key 44 (empat) :");
+        System.out.println("Isi dari cobalinkedhashmap map key 44 (empat) :");
         System.out.println(cobalinkedhashmap.get("44"));
     }
 }
